@@ -36,8 +36,11 @@ GIF created with [RecordIt](http://www.recordit.co).
 ## Notes
 
 Challenges encountered while making this app:
+
 -One of the biggest challenge was that I do not have a MacBook, yet I really wanted to participate in this CodePath iOS course. Hence I did the entire assignment on my friend's, Feona Garcia, MacBook. This is why she also made commits to this repo via git. However I am planning on getting a MacBook in order to continue this course, so I will be the only contributor for further projects.
+
 -Another challenge I faced was getting used to the iOS system, as I am not quite familiar with the operating system.
+
 -One last challenge was a "Thread 1: signal SIGABRT" error I encountered while creating outlets. I think it was due to a connection error after making the outlets and making modifications. I was unable to resolve the issue, so I decided to redo the project with more caution, and the issue was not encountered.
 
 
